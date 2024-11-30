@@ -12,8 +12,10 @@
 
 
 import wandb
-from lightning.pytorch.loggers import WandbLogger
-#47080269e7b1b5a51a89830cb24c495498237e77
+# from lightning.pytorch.loggers import WandbLogger
+# #47080269e7b1b5a51a89830cb24c495498237e77
 
-wandb.login()
+# wandb.login()
+
+wandb.finish()
 
