@@ -2,3 +2,5 @@ archive/
 JANGAN3/
 wandb/
 MNIST/
+lightning_logs/
+JANGAN2/
