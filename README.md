@@ -5,4 +5,4 @@ WGANGP
 
 Written in Lightning AI / Pytorch lightning to learn the framework, logging to wandb
 
-
+MNIST code is working, FFHQ is only working using the WGAN model.
