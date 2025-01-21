@@ -14,4 +14,4 @@ Here are some generated images from my GAN models:
 ![MNIST Grid](https://raw.githubusercontent.com/Filszcz/JANGAN/main/generated_images/20241202_200254/WGANGP_MNIST_grid.png)
 
 ## Cat Generated Images
-![Cat Image Grid](https://raw.githubusercontent.com/Filszcz/JANGAN/main/generated_images/grid_cat_20250121_203000.png)
+![Cat Image Grid](https://raw.githubusercontent.com/Filszcz/JANGAN/main/generated_images/grid_cat_20250121_204009.png)
